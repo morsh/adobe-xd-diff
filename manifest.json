@@ -1,0 +1,504 @@
+{
+  "id": "c0dad799-3e1d-4073-bc59-7a554725e59d",
+  "uxdesign#hotspotHints": "true",
+  "uxdesign#prototypeName": "xd_tutorial",
+  "uxdesign#fullscreen": "false",
+  "uxdesign#fullscreenPrivate": "false",
+  "type": "application/vnd.adobe.sparkler.project+dcx",
+  "children": [
+    {
+      "id": "43da8338-50bf-42ab-b761-cc2ec839e9df",
+      "name": "artwork",
+      "path": "artwork",
+      "children": [
+        {
+          "id": "096aa28d-8fa7-4ab4-a543-9de602b06cb6",
+          "name": "pasteboard",
+          "path": "pasteboard",
+          "children": [
+            {
+              "id": "d0147524-e987-4b7b-b248-10026bea6332",
+              "name": "graphics",
+              "path": "graphics",
+              "components": [
+                {
+                  "id": "dc3f5e3c-970e-48df-8191-d27994c195e5",
+                  "name": "",
+                  "state": "unmodified",
+                  "path": "graphicContent.agc",
+                  "type": "application/vnd.adobe.agc.graphicsTree+json",
+                  "rel": "primary"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "84c555c6-175a-4fc7-9adb-6b961b426e59",
+          "name": "Adventure",
+          "path": "artboard-3d78c015-7b0e-43d4-9d9e-c7e294886097",
+          "uxdesign#bounds": {
+            "x": 1605,
+            "width": 375,
+            "y": 215,
+            "height": 667
+          },
+          "children": [
+            {
+              "id": "0b8d83fb-0f56-4baf-8d7a-a1871a7432fe",
+              "name": "graphics",
+              "path": "graphics",
+              "components": [
+                {
+                  "id": "728d4a99-e06f-4dc9-aa3c-be41ce743109",
+                  "name": "",
+                  "state": "unmodified",
+                  "path": "graphicContent.agc",
+                  "type": "application/vnd.adobe.agc.graphicsTree+json",
+                  "rel": "primary"
+                }
+              ]
+            }
+          ],
+          "uxdesign#viewport": {
+            "height": 667
+          }
+        },
+        {
+          "id": "d4ac5dfa-fe70-4314-975a-0c4858d4fead",
+          "name": "Gear",
+          "path": "artboard-43a09067-228f-4f3a-9e7e-00d767ab9da4",
+          "uxdesign#bounds": {
+            "x": 720,
+            "width": 375,
+            "y": 215,
+            "height": 986
+          },
+          "children": [
+            {
+              "id": "96695816-91eb-4857-aea7-e46dd99568a5",
+              "name": "graphics",
+              "path": "graphics",
+              "components": [
+                {
+                  "id": "ccc7519c-e7c4-4356-89db-8ac004965481",
+                  "name": "",
+                  "state": "unmodified",
+                  "path": "graphicContent.agc",
+                  "type": "application/vnd.adobe.agc.graphicsTree+json",
+                  "rel": "primary"
+                }
+              ]
+            }
+          ],
+          "uxdesign#viewport": {
+            "height": 667
+          }
+        },
+        {
+          "id": "41c5cf45-712f-43f2-9645-c93c7718c240",
+          "name": "Blog",
+          "path": "artboard-9e91fdba-8f78-4dec-bf14-a05eea2e2c62",
+          "uxdesign#bounds": {
+            "x": 2593,
+            "width": 375,
+            "y": -750,
+            "height": 667
+          },
+          "children": [
+            {
+              "id": "d0c3d79a-2935-47f5-b99e-24f604ec17e7",
+              "name": "graphics",
+              "path": "graphics",
+              "components": [
+                {
+                  "id": "dca3ca3d-d24c-417f-9166-0bcab7479417",
+                  "name": "",
+                  "state": "unmodified",
+                  "path": "graphicContent.agc",
+                  "type": "application/vnd.adobe.agc.graphicsTree+json",
+                  "rel": "primary"
+                }
+              ]
+            }
+          ],
+          "uxdesign#viewport": {
+            "height": 667
+          }
+        },
+        {
+          "id": "6b98a3f9-c99e-4676-ac52-cc84dbb8a984",
+          "name": "Home",
+          "path": "artboard-267eb257-317f-47b0-ac6b-f3f224213e15",
+          "uxdesign#bounds": {
+            "x": 1708,
+            "width": 375,
+            "y": -750,
+            "height": 667
+          },
+          "children": [
+            {
+              "id": "3ee156ba-182d-432a-80a6-aa8f76dc73aa",
+              "name": "graphics",
+              "path": "graphics",
+              "components": [
+                {
+                  "id": "26cbd9a1-752d-47c3-8b2e-5ac96dba071b",
+                  "name": "",
+                  "state": "unmodified",
+                  "path": "graphicContent.agc",
+                  "type": "application/vnd.adobe.agc.graphicsTree+json",
+                  "rel": "primary"
+                }
+              ]
+            }
+          ],
+          "uxdesign#viewport": {
+            "height": 667
+          }
+        },
+        {
+          "id": "0b52214e-cfde-4e60-ae76-0f6d0e349ea7",
+          "name": "iPhone 6/7/8 – 1",
+          "path": "artboard-e30f7483-4241-4311-8593-e25aa67b3b7c",
+          "uxdesign#bounds": {
+            "x": 1263,
+            "width": 375,
+            "y": -750,
+            "height": 667
+          },
+          "children": [
+            {
+              "id": "19501532-38d5-4bd3-8021-3039bf1f7930",
+              "name": "graphics",
+              "path": "graphics",
+              "components": [
+                {
+                  "id": "8f68c5ba-e2c4-4f30-a3d4-4a0b82ea8014",
+                  "name": "",
+                  "state": "unmodified",
+                  "path": "graphicContent.agc",
+                  "type": "application/vnd.adobe.agc.graphicsTree+json",
+                  "rel": "primary"
+                }
+              ]
+            }
+          ],
+          "uxdesign#viewport": {
+            "height": 667
+          }
+        },
+        {
+          "id": "1d5fb371-eb58-4900-ad41-17054251d43f",
+          "name": "Artboard – 1",
+          "path": "artboard-39b5b158-37af-473f-ad7a-b4fb901406e7",
+          "uxdesign#bounds": {
+            "x": 602,
+            "width": 158,
+            "y": -314,
+            "height": 56
+          },
+          "children": [
+            {
+              "id": "8b53cd33-2c84-45b9-8c67-1622a7bad39b",
+              "name": "graphics",
+              "path": "graphics",
+              "components": [
+                {
+                  "id": "389609e2-1ded-40a8-891f-d23929da4bf1",
+                  "name": "",
+                  "state": "unmodified",
+                  "path": "graphicContent.agc",
+                  "type": "application/vnd.adobe.agc.graphicsTree+json",
+                  "rel": "primary"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "e9879539-631a-4357-8083-b1e5d7e95eff",
+          "name": "iPad Pro 10.5in – 1",
+          "path": "artboard-ef3ce701-0bdc-4708-ae35-a446802045b4",
+          "uxdesign#bounds": {
+            "x": 3058,
+            "width": 834,
+            "y": -756,
+            "height": 1112
+          },
+          "children": [
+            {
+              "id": "fe2b8d74-dd1a-47f2-847f-516939815284",
+              "name": "graphics",
+              "path": "graphics",
+              "components": [
+                {
+                  "id": "44005cfe-9748-43a0-9157-dec5d5062781",
+                  "name": "",
+                  "state": "unmodified",
+                  "path": "graphicContent.agc",
+                  "type": "application/vnd.adobe.agc.graphicsTree+json",
+                  "rel": "primary"
+                }
+              ]
+            }
+          ],
+          "uxdesign#viewport": {
+            "height": 1112
+          }
+        }
+      ]
+    },
+    {
+      "id": "04fb4574-fdea-43e3-92fc-0bec6051fc27",
+      "name": "interactions",
+      "path": "interactions",
+      "components": [
+        {
+          "id": "436a5143-e978-4516-b182-8fc3905b43e0",
+          "name": "interactions",
+          "state": "unmodified",
+          "path": "interactions.json",
+          "type": "application/vnd.adobe.uxdesign.interactions+json",
+          "rel": "primary"
+        }
+      ]
+    },
+    {
+      "id": "9aad7bf2-c3a8-4bc3-89be-f5d9d819a87a",
+      "name": "resources",
+      "path": "resources",
+      "children": [
+        {
+          "id": "b3a71599-0668-4471-a181-59fa07f41468",
+          "name": "graphics",
+          "path": "graphics",
+          "components": [
+            {
+              "id": "1e1513cc-4bd1-446c-a22f-027939f25435",
+              "name": "",
+              "state": "unmodified",
+              "path": "graphicContent.agc",
+              "type": "application/vnd.adobe.agc.graphicsTree+json",
+              "rel": "primary"
+            }
+          ]
+        }
+      ],
+      "components": [
+        {
+          "id": "4076a892-00e8-4b11-bc03-14024891f5a6",
+          "name": "",
+          "state": "unmodified",
+          "path": "80735d222dbcc4f066b63da8bba3a6a2",
+          "type": "image/png",
+          "rel": "primary"
+        },
+        {
+          "id": "bd92d829-897e-4c33-9259-dd93a56f6c01",
+          "name": "",
+          "state": "unmodified",
+          "path": "e1fb9a2e0c415795991f8661f7e403e3",
+          "type": "image/png",
+          "rel": "primary"
+        },
+        {
+          "id": "2c763394-f002-4709-b666-1d0a5d2be348",
+          "name": "",
+          "state": "unmodified",
+          "path": "845568bb26f9a75d19c5f38675f126ba",
+          "type": "image/png",
+          "rel": "primary"
+        },
+        {
+          "id": "f3ebd7c1-2dcd-4549-8456-0d1fd044fbb1",
+          "name": "",
+          "state": "unmodified",
+          "path": "5a9660dd8925f0fb030166ed1975975d",
+          "type": "image/png",
+          "rel": "primary"
+        },
+        {
+          "id": "07c8f26d-51c7-48a8-88c3-f8c9f8a39b44",
+          "name": "",
+          "state": "unmodified",
+          "path": "e4bc0572db9b2f33671f77d70a2f4bbf",
+          "type": "image/png",
+          "rel": "primary"
+        },
+        {
+          "id": "0a007386-2604-44ba-ae5e-6319cce849ee",
+          "name": "",
+          "state": "unmodified",
+          "path": "f51d6dba1d65d592951d46ccc4760b43",
+          "type": "image/jpeg",
+          "rel": "primary"
+        },
+        {
+          "id": "a24d74c3-3925-4f2a-b3c2-e67b8f75a3ef",
+          "name": "",
+          "state": "unmodified",
+          "path": "db754a164f8b8efdd336ae05d1da0b79",
+          "type": "image/jpeg",
+          "rel": "primary"
+        },
+        {
+          "id": "c4285d71-fb61-4431-89f9-a1f701c72422",
+          "name": "",
+          "state": "unmodified",
+          "path": "b36e33a8a690be9c414fe83d75dd7242",
+          "type": "image/jpeg",
+          "rel": "primary"
+        },
+        {
+          "id": "c6416ab6-0984-4922-b95d-73086942ea9c",
+          "name": "",
+          "state": "unmodified",
+          "path": "8349f48c6e20c1c61500bb2d7774698b",
+          "type": "image/jpeg",
+          "rel": "primary"
+        },
+        {
+          "id": "759af060-6914-4dac-a2f3-6eb4b0725ff3",
+          "name": "",
+          "state": "unmodified",
+          "path": "c08dbf1f14018ae7e2f24a6b275f7161",
+          "type": "image/jpeg",
+          "rel": "primary"
+        },
+        {
+          "id": "8eeb5cfb-0102-4d74-945e-9509fbeca2f0",
+          "name": "",
+          "state": "unmodified",
+          "path": "2ce4dacf65f688d64fb8685f2e61a230",
+          "type": "image/jpeg",
+          "rel": "primary"
+        },
+        {
+          "id": "3d41bcd3-67e3-4cb5-864a-46e25afcc4de",
+          "name": "",
+          "state": "unmodified",
+          "path": "1c1fc5558af504893061b883e964558f",
+          "type": "image/jpeg",
+          "rel": "primary"
+        },
+        {
+          "id": "a5e3241f-771e-4ee8-b591-e380a34bb81e",
+          "name": "",
+          "state": "unmodified",
+          "path": "c3f42ed89af66e3fbee2ca6025985939",
+          "type": "image/jpeg",
+          "rel": "primary"
+        },
+        {
+          "id": "28db9ff0-1ede-4bc2-97fa-4f84232f6220",
+          "name": "",
+          "state": "unmodified",
+          "path": "44bba594bc5454ca53f1df7ae3dbcb2b",
+          "type": "image/jpeg",
+          "rel": "primary"
+        },
+        {
+          "id": "eb5d5fde-0a70-4b7a-852f-cd4e56d39a6b",
+          "name": "",
+          "state": "unmodified",
+          "path": "ebdade009c0e58c2924a65b4ab9bff7f",
+          "type": "image/jpeg",
+          "rel": "primary"
+        },
+        {
+          "id": "a5c6d587-ea38-4d88-9990-b48bfebc52df",
+          "name": "",
+          "state": "unmodified",
+          "path": "5ca09c06846d6136bf2ba3f39c2b8432",
+          "type": "image/jpeg",
+          "rel": "primary"
+        },
+        {
+          "id": "bbc478b0-d53b-4865-84a0-abab29e5345e",
+          "name": "",
+          "state": "unmodified",
+          "path": "a501b8f826bbb7df8834ae9adbe49e23",
+          "type": "image/jpeg",
+          "rel": "primary"
+        },
+        {
+          "id": "52bc0d8f-9252-43be-b224-216bd9fac139",
+          "name": "",
+          "state": "unmodified",
+          "path": "1e3480f6787ebcf2c6b584f557fa7d2d",
+          "type": "image/png",
+          "rel": "primary"
+        },
+        {
+          "id": "60a07b0d-c6c8-4f0d-bd39-af18cd77be01",
+          "name": "",
+          "state": "unmodified",
+          "path": "832f9b5fdff500a0e7a2a05673a0142a",
+          "type": "image/png",
+          "rel": "primary"
+        },
+        {
+          "id": "839189cc-e013-4b2f-8882-8e44ad619e67",
+          "name": "",
+          "state": "unmodified",
+          "path": "c0ea8aa34c9f50945f83567276585e85",
+          "type": "image/png",
+          "rel": "primary"
+        }
+      ]
+    }
+  ],
+  "uxdesign#userDidSetSpecNamePrivate": "false",
+  "uxdesign#allowComments": "true",
+  "uxdesign#version": "0.37",
+  "uxdesign#userDidSetPrototypeName": "false",
+  "uxdesign#requirePassword": "false",
+  "uxdesign#passwordPublished": "false",
+  "uxdesign#prototypeSharePublic": "true",
+  "uxdesign#userDidSetSpecName": "false",
+  "uxdesign#specRequirePassword": "false",
+  "uxdesign#specPasswordPublished": "false",
+  "uxdesign#specSharePublic": "true",
+  "uxdesign#userDidSetPrototypeNamePrivate": "false",
+  "uxdesign#hotspotHintsPrivate": "true",
+  "uxdesign#allowCommentsPrivate": "true",
+  "uxdesign#requirePasswordPrivate": "false",
+  "uxdesign#passwordPublishedPrivate": "false",
+  "uxdesign#specRequirePasswordPrivate": "false",
+  "uxdesign#specPasswordPublishedPrivate": "false",
+  "uxdesign#id": "860f15d0-512f-493b-9a98-8e32deea45ad",
+  "components": [
+    {
+      "id": "8e459ded-d62f-4d6a-a33b-70d6c128f3b4",
+      "name": "thumbnail",
+      "state": "unmodified",
+      "path": "thumbnail.png",
+      "type": "image/png",
+      "height": 512,
+      "width": 288,
+      "rel": "rendition"
+    },
+    {
+      "id": "a61862e3-802c-4d1d-a5d8-c0af9cbc0ebf",
+      "name": "preview",
+      "state": "unmodified",
+      "path": "preview.png",
+      "type": "image/png",
+      "height": 667,
+      "width": 375,
+      "rel": "rendition"
+    },
+    {
+      "id": "209e289b-1302-4b5a-9682-4ecf6685cf11",
+      "name": "xmp-metadata",
+      "state": "unmodified",
+      "path": "META-INF/metadata.xml",
+      "type": "application/rdf+xml",
+      "rel": "metadata"
+    }
+  ],
+  "name": "xd-tutorial-1",
+  "manifest-format-version": 6,
+  "state": "unmodified"
+}

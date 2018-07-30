@@ -1,0 +1,81 @@
+{
+  "version": "0.13",
+  "homeArtboard": "73e6edcd-c1ad-45bc-8db6-bccb688bacef",
+  "interactions": {
+    "a953f59f-f088-43c9-8252-cb261388420a": [
+      {
+        "triggerEvent": "tap",
+        "action": "artboard-transition",
+        "properties": {
+          "destinationType": "artboard",
+          "transition": "slide-right",
+          "duration": 0.4,
+          "easing": "ease-out",
+          "preserveScrollPosition": false,
+          "destination": "e11097ab-af9d-415a-8f73-3f0a76170fc8"
+        },
+        "id": "6d643379-1913-4e87-9a63-1e9fe6901098"
+      }
+    ],
+    "e2812e9f-f12f-4007-9ae9-2471d2de1f71": [
+      {
+        "triggerEvent": "tap",
+        "action": "artboard-transition",
+        "properties": {
+          "destinationType": "artboard",
+          "transition": "slide-up",
+          "duration": 0.4,
+          "easing": "ease-out",
+          "preserveScrollPosition": false,
+          "destination": "e11097ab-af9d-415a-8f73-3f0a76170fc8"
+        },
+        "id": "35a491b0-1247-40bb-8271-626965e66e28"
+      }
+    ],
+    "aba783d9-a520-4bbd-a9ba-92bdbefe8d89": [
+      {
+        "triggerEvent": "tap",
+        "action": "artboard-transition",
+        "properties": {
+          "destinationType": "artboard",
+          "transition": "slide-left",
+          "duration": 0.4,
+          "easing": "ease-out",
+          "preserveScrollPosition": false,
+          "destination": "902b6d2e-ecc7-4e6a-978d-eb28112541f9"
+        },
+        "id": "a8491b68-3a0f-4579-8d84-2fa04b27903d"
+      }
+    ],
+    "b964b8f6-1b21-491d-b531-b597f335a498": [
+      {
+        "triggerEvent": "tap",
+        "action": "artboard-transition",
+        "properties": {
+          "destinationType": "artboard",
+          "transition": "slide-down",
+          "duration": 0.4,
+          "easing": "ease-out",
+          "preserveScrollPosition": false,
+          "destination": "73e6edcd-c1ad-45bc-8db6-bccb688bacef"
+        },
+        "id": "ace775b1-601f-4e7a-9d3a-73feb260aee3"
+      }
+    ],
+    "66c57433-a75a-49c3-bab2-9f8f2061846c": [
+      {
+        "triggerEvent": "tap",
+        "action": "artboard-transition",
+        "properties": {
+          "destinationType": "artboard",
+          "transition": "dissolve",
+          "duration": 0.4,
+          "easing": "ease-out",
+          "preserveScrollPosition": false,
+          "destination": "dc0e84aa-2f67-4b69-8977-55cbc9282375"
+        },
+        "id": "a0736e47-aa2b-4f99-b10d-089b68b2781d"
+      }
+    ]
+  }
+}
